@@ -1,15 +1,21 @@
 - 👋 Hi, I’m @JoshuaDylanPolcek
-- 👀 Senior Business Systems Analyst, 
-     Musician 'BlueGrass',
-     Recording and FOH Sound Engineer
-- 🌱 Lap Steel Guitar and Python 3.x
-- 💞️ I’m looking for a Mentor/Educator in
--    Portland, ME. A skilled coder to help
+- 👀 Senior Business Systems Analyst
+-    NEEDED Mentor in Portland, ME.
+-    skilled business application coder to help
 -    flatten the learning curve associated
 -    with learning the Python 3.x PL.
 -    
--    Additionally I am looking for a talented 
--    musician, to help flatten the learning
+     ,
+     Audio Engineer Live Performance
+      (FOH and Monitor Mix)
+- 🌱 Guitars Lap-Steel, Slide and Python 3.x
+- 💞️ Wanted Mentor, Educator in Portland, ME.
+-     A skilled coder to help
+-    flatten the learning curve associated
+-    with learning the Python 3.x PL.
+-    
+-    NEED lap-steel guitar player
+-    musician , to help flatten the learning
 -    curve, associated with learning a
 -    6-string Lap Steel guitar.
 -    I am a skilled Regular guitar player.
